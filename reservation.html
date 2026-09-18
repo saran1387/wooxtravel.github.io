@@ -212,7 +212,12 @@ https://templatemo.com/tm-580-woox-travel
       $(".option").removeClass("active");
       $(this).addClass("active"); 
     });
+
+document.getElementById('reservation-form').addEventListener('submit', function(e) { 
+  e.preventDefault(); 
+}); 
   </script>
+
 
   </body>
 
