@@ -2153,7 +2153,7 @@ Reservation Page Style
   border: 1px solid #e0e0e0;
   padding: 0px 20px;
   cursor: pointer;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .reservation-form #reservation-form input.date {
